@@ -1,0 +1,5 @@
+influxdb/data
+influxdb/meta
+influxdb/wal
+plugins/influxdb-flux-datasource
+*.zip
